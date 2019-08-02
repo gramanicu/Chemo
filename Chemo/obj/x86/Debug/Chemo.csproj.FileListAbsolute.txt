@@ -1,0 +1,27 @@
+C:\Users\Grama\Desktop\Chemo\Chemo\bin\Debug\Chemo.exe
+C:\Users\Grama\Desktop\Chemo\Chemo\bin\Debug\Chemo.pdb
+C:\Users\Grama\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.Properties.Resources.resources
+C:\Users\Grama\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.csproj.GenerateResource.Cache
+C:\Users\Grama\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.exe
+C:\Users\Grama\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.pdb
+C:\Users\Grama\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.Form1.resources
+C:\Users\Nicolae\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.exe
+C:\Users\Nicolae\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.pdb
+C:\Users\Nicolae\Desktop\Chemo\Chemo\bin\Debug\Chemo.exe
+C:\Users\Nicolae\Desktop\Chemo\Chemo\bin\Debug\Chemo.pdb
+C:\Users\Nicolae\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.Form1.resources
+C:\Users\Nicolae\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.Properties.Resources.resources
+C:\Users\Nicolae\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.csproj.GenerateResource.Cache
+C:\Users\Nicolae\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.csprojResolveAssemblyReference.cache
+C:\Users\Grama\Desktop\Chemo\Chemo\obj\x86\Debug\Chemo.csprojResolveAssemblyReference.cache
+C:\Users\Nicolae\Desktop\Chemo\Chemo\bin\Debug\Tabel (nu modificati datele dinauntru).xml
+D:\Programming\C#\Chemo\Chemo\obj\x86\Debug\Chemo.exe
+D:\Programming\C#\Chemo\Chemo\obj\x86\Debug\Chemo.pdb
+D:\Programming\C#\Chemo\Chemo\bin\Debug\Tabel (nu modificati datele dinauntru).xml
+D:\Programming\C#\Chemo\Chemo\bin\Debug\Chemo.exe
+D:\Programming\C#\Chemo\Chemo\bin\Debug\Chemo.pdb
+D:\Programming\C#\Chemo\Chemo\obj\x86\Debug\Chemo.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Chemo\Chemo\obj\x86\Debug\Chemo.Form1.resources
+D:\Programming\C#\Chemo\Chemo\obj\x86\Debug\Chemo.Properties.Resources.resources
+D:\Programming\C#\Chemo\Chemo\obj\x86\Debug\Chemo.csproj.GenerateResource.Cache
+C:\Users\Grama\Desktop\Chemo\Chemo\bin\Debug\Tabel (nu modificati datele dinauntru).xml
